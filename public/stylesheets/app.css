@@ -1,0 +1,36 @@
+i.icon{
+	font-size: 2em;
+}
+
+.container.main{
+	margin-top: 7.0em;
+}
+
+#delete{
+	display:inline;
+	
+}
+
+.mybtn{
+	font-size: 1.3em;
+	
+	
+}
+
+.mybtns{
+	text-align: center;
+	margin: 20px auto ;
+}
+
+#myiconE{
+	font-size:1.5em;	
+}
+
+#myiconD{
+	font-size:1.5em;	
+}
+
+#myiconR{
+	font-size:0.8em;
+	
+}

@@ -135,6 +135,7 @@ app.delete("/blogs/:id",function(req,res){
 	
 })
 
+
 var heroku_var = process.env.HEROKU || '0';
 if(heroku_var === '0'){
 	app.listen(3000,function(){
